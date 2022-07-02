@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍
 - 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: `Patryk (PsychoX)#7966` 
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
-- 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality, but I want to properly respect you. 🌈 Meritocracy for the win! 🐱‍🏍
+- 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality, I want to properly respect you. 🌈
 - ⚡ Fun fact: In middle school I hacked my school e-diary, nothing serious tho 🤐
 - 🎮 In my free time I play [Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌, [Pathfinder](https://store.steampowered.com/app/640820/) 🧙, [Minecraft](https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft) 🌏 and [League of Legends](https://youtu.be/zh-ctjiCQIg?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT) 🤬.
 - 🎶 You can check my [Spotify](https://open.spotify.com/user/21sbyis6klmw67fpuj3tn7poy?si=417766435dac4e54) to check what kind of music I listen to.
