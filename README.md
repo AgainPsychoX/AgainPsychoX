@@ -16,7 +16,7 @@
 
 <!-- The counter is hidden for now, let it stack meanwhile. -->
 
-<a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="0" height="0" /></a>
+<a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="1" height="1" /></a>
 
 ### Stuff I roll with
 
