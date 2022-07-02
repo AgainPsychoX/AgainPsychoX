@@ -12,13 +12,11 @@
 - 🎮 In my free time I play [Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌, [Pathfinder](https://store.steampowered.com/app/640820/) 🧙, [Minecraft](https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft) 🌏 and [League of Legends](https://youtu.be/zh-ctjiCQIg?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT) 🤬.
 - 🎶 You can check my [Spotify](https://open.spotify.com/user/21sbyis6klmw67fpuj3tn7poy?si=417766435dac4e54) to check what kind of music I listen to.
 
-<br />
-
 <!-- TODO: Add some stats (as soon as I get any attention 😉): visitors, stars, followers counts, github contributions streaks, stack overflow points, hours spend coding (using activity watcher?) -->
 
 <!-- The counter is hidden for now, let it stack meanwhile. -->
 
-<a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="1" height="1" /></a>
+<a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="0" height="0" /></a>
 
 ### Stuff I roll with
 
