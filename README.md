@@ -16,11 +16,9 @@
 
 <!-- TODO: Add some stats (as soon as I get any attention 😉): visitors, stars, followers counts, github contributions streaks, stack overflow points, hours spend coding (using activity watcher?) -->
 
-<div style="display: none;">
+<!-- The counter is hidden for now, let it stack meanwhile. -->
 
-[![Hits](https://hits.sh/github.com/AgainPsychoX.svg?label=visits)](https://hits.sh/github.com/AgainPsychoX/)
-
-</div>
+<a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="1" height="1" /></a>
 
 ### Stuff I roll with
 
