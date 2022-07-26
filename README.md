@@ -9,7 +9,7 @@
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
 - 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality, I want to properly respect you. 🌈
 - ⚡ Fun fact: In middle school I hacked my school e-diary, nothing serious tho 🤐
-- 🎮 In my free time I play [Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌, [Pathfinder](https://store.steampowered.com/app/640820/) 🧙, <a href="https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft" title="One of my favourite non-intentional mechanics in Minecraft!">Minecraft</a> 🌏 and <a href="https://youtu.be/zh-ctjiCQIg?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT" title="Don't play League, it's unbalanced piece of shit!"> League of Legends</a> 🤬.
+- 🎮 In my free time I play [Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌, [Pathfinder](https://store.steampowered.com/app/640820/) 🧙, <a href="https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft" title="One of my favourite non-intentional mechanics in Minecraft!">Minecraft</a> 🌏 and <a href="https://youtu.be/zh-ctjiCQIg?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT" title="Don't play League, it's unbalanced piece of shit!"> League of Legends</a> 🤬..
 - 🎶 You can check my [Spotify](https://open.spotify.com/user/21sbyis6klmw67fpuj3tn7poy?si=417766435dac4e54) to check what kind of music I listen to.
 
 <!-- TODO: Add some stats (as soon as I get any attention 😉): visitors, stars, followers counts, github contributions streaks, stack overflow points, hours spend coding (using activity watcher?) -->
@@ -55,14 +55,15 @@
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 	<a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-f18a49.svg?logo=d3dotjs&logoColor=white"></a>
 	<a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+	<a href="#"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-4a31c3.svg?logo=eslint&logoColor=white"></a>
 	<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 	<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-	<a href="#"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-4a31c3.svg?logo=eslint&logoColor=white"></a>
 	<a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
 	<a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 	<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 	<a href="#"><img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-02d8a2.svg?logo=puppeteer&logoColor=black"></a>
 	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+	<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764abd.svg?logo=redux&logoColor=white"></a>
 	<a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white"></a>
 	<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0BB6D4.svg?logo=tailwindcss&logoColor=white"></a>
 	<a href="#"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000.svg?logo=webgl&logoColor=white"></a>
@@ -74,6 +75,7 @@
 	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 	<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f2830b.svg?logo=firebase&logoColor=white"></a>
 	<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4286f5.svg?logo=googlecloud&logoColor=white"></a>
+	<a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-e10198.svg?logo=graphql&logoColor=white"></a>
 	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 	<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
