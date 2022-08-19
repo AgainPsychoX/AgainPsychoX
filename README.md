@@ -2,9 +2,10 @@
 # 👋 Hello there! I'm Patryk Ludwikowski ✨
 
 - 🃏 Self-taught programmer, coding since childhood.
-- 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/) 🎓
-- 👀 Looking for my first job 💼 <small>(aside from freelancing)</small> 
-- 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍
+- 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/). 🎓
+- 💼 Working with [Accenture](https://www.accenture.com/), Poland. Intern for C/C++/SQL/Perl related project 💪
+- 🌱 I'm currently focusing on work 💼, then [my Aquarium Controller project](https://github.com/AgainPsychoX/AquariumController) 🐠 and playing [a bit of modded Minecraft](https://media.discordapp.net/attachments/1000701846303805520/1009978187763155034/unknown.png?width=1246&height=701) 🌏.
+<!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
 - 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: `Patryk (PsychoX)#7966` 
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
 - 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality, I want to properly respect you. 🌈
