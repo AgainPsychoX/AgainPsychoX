@@ -4,8 +4,8 @@
 - 🃏 Self-taught programmer, coding since childhood.
 - 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/). 🎓
 - 💼 Working with [Accenture](https://www.accenture.com/), Poland. Intern for C/C++/SQL/Perl related project 💪
-- 🌱 I'm currently focusing on work 💼 and university stuff... <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
-- 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: `Patryk (PsychoX)#7966` 
+- 🌱 I'm currently focusing on work and university stuff... 🥱 <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
+- 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: [`AgainPsychoX#4444`](https://discordapp.com/users/AgainPsychoX#4444) 
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
 - 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality, I want to properly respect you. 🌈
 - ⚡ Fun fact: In middle school I hacked my school e-diary, nothing serious tho 🤐
