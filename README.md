@@ -2,8 +2,7 @@
 # 👋 Hello there! I'm Patryk Ludwikowski ✨
 
 - 🃏 Self-taught programmer, coding since childhood.
-- 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/). 🎓
-<!-- 💼 Looking for job while studying...? Soon :) -->
+- 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/). 🎓 <!-- 💼 Looking for job while studying...? Soon :) -->
 - 🌱 I'm currently focusing on university stuff... 🥱 <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
 - 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: [`AgainPsychoX#4444`](https://discordapp.com/users/AgainPsychoX#4444) 
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
