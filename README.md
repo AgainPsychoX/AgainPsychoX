@@ -76,7 +76,7 @@
 	<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f2830b.svg?logo=firebase&logoColor=white"></a>
 	<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4286f5.svg?logo=googlecloud&logoColor=white"></a>
 	<a href="#"><img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-e10198.svg?logo=graphql&logoColor=white"></a>
-	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+<!-- 	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
 	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 	<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
