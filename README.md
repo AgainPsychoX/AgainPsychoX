@@ -3,8 +3,8 @@
 
 - 🃏 Self-taught programmer, coding since childhood.
 - 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/). 🎓 
-- 💼 Looking for local internship job in Mielec or Rzeszów (Poland), cannot work remotely due to university restrictions 😑.
-- 🌱 I'm currently intern at BURY R&D, Mielec.  <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
+- 💼 Not working for anyone at the moment, reach out to change it :)
+- 🌱 Currently doing university related stuff...  <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
 - 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: [`AgainPsychoX#4444`](https://discordapp.com/users/299966992834756608) 
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
 - 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality - everyone deserves respect. 🌈
