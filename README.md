@@ -1,19 +1,19 @@
 
-# 👋 Hello there! I'm Patryk Ludwikowski ✨
+# 👋 Hello there, I'm Patryk! ✨
 
 - 🃏 Self-taught programmer, coding since childhood.
 - 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/). 🎓 
-- 💼 Not working for anyone at the moment, reach out to change it :)
-- 🌱 Currently doing university related stuff...  <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
+- 💼 At the moment working for [R&G Plus](http://www.rg.com.pl/en_en/).
+- 🌱 Currently focusing on work & private embedded projects. <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
 - 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: [`AgainPsychoX#4444`](https://discordapp.com/users/299966992834756608) 
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
 - 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality - everyone deserves respect. 🌈
 - ⚡ Fun fact: In middle school I hacked my school electronic grade book, nothing serious tho 🤐
-- 🎮 In my free time I play [Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌, [Pathfinder](https://store.steampowered.com/app/640820/) 🧙, <a href="https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft" title="One of my favourite non-intentional mechanics in Minecraft!">Minecraft</a> 🌏 and <a href="https://youtu.be/zh-ctjiCQIg?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT" title="Don't play League, it's unbalanced piece of shit!"> League of Legends</a> 🤬.
+- 🎮 In my free time I play some games, mainly cRPGs ([Pathfinder](https://store.steampowered.com/app/640820/) 🧙), stategies ([Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌) or creative games (<a href="https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft" title="One of my favourite non-intentional mechanics in Minecraft!">Minecraft</a> 🌏). <!-- and <a href="https://www.youtube.com/watch?v=WOZQ_5P4nOw?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT" title="Don't play League, it's unbalanced piece of shit!"> League of Legends</a> 🤬 from time to time. -->
 - 🎶 You can check my [Spotify](https://open.spotify.com/user/21sbyis6klmw67fpuj3tn7poy?si=417766435dac4e54) to check what kind of music I listen to.
 
 <!-- TODO: Add some stats (as soon as I get any attention 😉): visitors, stars, followers counts, github contributions streaks, stack overflow points, hours spend coding (using activity watcher?) -->
-
+<!-- Note: Most likely it's useless, because of Ads/tracking blocking nowadays; maybe just remove it at all? -->
 <!-- The counter is hidden for now, let it stack meanwhile. -->
 
 <a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="1" height="1" /></a>
@@ -23,6 +23,7 @@
 ### 👨‍💻 Programming languages
 
 <dl><dd><p>
+<!-- TODO: fix the links here to filter properly OR add one example project per one OR remove them -->
 	<a href="https://github.com/search?q=user%3AAgainPsychoX+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3AAgainPsychoX+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3AAgainPsychoX+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -60,12 +61,14 @@
 	<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 	<a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
 	<a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+	<a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white"></a>
 	<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 	<a href="#"><img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-02d8a2.svg?logo=puppeteer&logoColor=black"></a>
+	<a href="#"><img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-F5822A.svg?logo=platformio&logoColor=black"></a>
 	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 	<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764abd.svg?logo=redux&logoColor=white"></a>
-	<a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white"></a>
 	<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0BB6D4.svg?logo=tailwindcss&logoColor=white"></a>
+	<a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52.svg?logo=qt&logoColor=white"></a>
 	<a href="#"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000.svg?logo=webgl&logoColor=white"></a>
 </p></dd></dl>
 
@@ -85,11 +88,13 @@
 ### 💻 Software and tools
 
 <dl><dd><p>
+<!-- TODO: Add links? Add YT Music instead Spotify (incl. above); Update Discord to even deeper color; Add Brave; Add Proton/VPN -->
+<!-- TODO: Add ActivityWatch	<a href="#"><img alt="ActivityWatch" src=""></a> -->
 	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 	<a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
 	<a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-	<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-748bdb?logo=discord&logoColor=white"></a>
+	<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white"></a>
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-c94438.svg?logo=gmail&logoColor=white"></a>
 	<a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-377EF0.svg?logo=googlechrome&logoColor=white"></a>
