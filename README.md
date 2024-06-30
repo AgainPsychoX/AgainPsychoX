@@ -12,13 +12,9 @@
 - 🎮 In my free time I play some games, mainly cRPGs ([Pathfinder](https://store.steampowered.com/app/640820/) 🧙), stategies ([Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌) or creative games (<a href="https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft" title="One of my favourite non-intentional mechanics in Minecraft!">Minecraft</a> 🌏). <!-- and <a href="https://www.youtube.com/watch?v=WOZQ_5P4nOw?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT" title="Don't play League, it's unbalanced piece of shit!"> League of Legends</a> 🤬 from time to time. -->
 - 🎶 You can check my [Spotify](https://open.spotify.com/user/21sbyis6klmw67fpuj3tn7poy?si=417766435dac4e54) to check what kind of music I listen to.
 
-<!-- TODO: Add some stats (as soon as I get any attention 😉): visitors, stars, followers counts, github contributions streaks, stack overflow points, hours spend coding (using activity watcher?) -->
-<!-- Note: Most likely it's useless, because of Ads/tracking blocking nowadays; maybe just remove it at all? -->
-<!-- The counter is hidden for now, let it stack meanwhile. -->
-
-<a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="1" height="1" /></a>
-
 ### Stuff I roll with
+
+<!-- TODO: maybe put it into HTML summary-details block(s)? -->
 
 ### 👨‍💻 Programming languages
 
@@ -132,7 +128,10 @@
 	<a href="#"><img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-a41e22.svg?logo=vulkan&logoColor=white"></a>
 </p></dd></dl>
 
-<br/>
-<sub title="Anything more?">¯\_(ツ)_/¯</sub>
+---
 
+<!-- TODO: Add some stats (as soon as I get any attention 😉): visitors, stars, followers counts, github contributions streaks, stack overflow points, hours spend coding (using activity watcher?) -->
+<!-- Note: Most likely it's useless, because of Ads/tracking blocking nowadays; maybe just remove it at all? -->
+<!-- The counter is hidden for now, let it stack meanwhile. -->
 
+<sub>Anything more.<a href="https://hits.sh/github.com/AgainPsychoX/"><img alt="Hits" src="https://hits.sh/github.com/AgainPsychoX.svg?label=visits" width="1" height="1" /></a>.? ¯\\\_(ツ)_/¯</sub>
