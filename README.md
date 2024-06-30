@@ -129,7 +129,7 @@
 	<a href="#"><img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-a41e22.svg?logo=vulkan&logoColor=white"></a>
 </p></dd></dl>
 
----
+<br/>
 
 <!-- TODO: Add some stats (as soon as I get any attention 😉): visitors, stars, followers counts, github contributions streaks, stack overflow points, hours spend coding (using activity watcher?) -->
 <!-- Note: Most likely it's useless, because of Ads/tracking blocking nowadays; maybe just remove it at all? -->
