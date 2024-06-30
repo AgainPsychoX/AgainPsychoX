@@ -10,7 +10,7 @@
 - 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality - everyone deserves respect. 🌈
 - ⚡ Fun fact: In middle school I hacked my school electronic grade book, nothing serious tho 🤐
 - 🎮 In my free time I play some games, mainly cRPGs ([Pathfinder](https://store.steampowered.com/app/640820/) 🧙), stategies ([Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) 🌌) or creative games (<a href="https://www.youtube.com/watch?v=sBNuqZKa_Lw?note=One+of+my+favourite+non-intentional+mechanics+in+Minecraft" title="One of my favourite non-intentional mechanics in Minecraft!">Minecraft</a> 🌏). <!-- and <a href="https://www.youtube.com/watch?v=WOZQ_5P4nOw?note=PLEASE+DONT+PLAY+THIS+GAME+ITS+UNBALANCED+PIECE+OF+SHIT" title="Don't play League, it's unbalanced piece of shit!"> League of Legends</a> 🤬 from time to time. -->
-- 🎶 You can check my [Spotify](https://open.spotify.com/user/21sbyis6klmw67fpuj3tn7poy?si=417766435dac4e54) to check what kind of music I listen to.
+- 🎶 You can check my [YouTube Music](https://music.youtube.com/playlist?list=PL3paxtWpuYCyBIl_pKXqrf1X4n9dQLMwc) to check what kind of music I listen to. <!-- I don't use [Spotify](https://open.spotify.com/user/21sbyis6klmw67fpuj3tn7poy?si=417766435dac4e54) no more because they scammed me (by geo-locking some stuff) despite I payed for Premium long time. -->
 
 ### Stuff I roll with
 
