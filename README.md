@@ -5,7 +5,7 @@
 - 📚 I'm currently studying **IT** at [**University of Rzeszów**](https://www.ur.edu.pl/). 🎓 
 - 💼 At the moment working for [R&G Plus](http://www.rg.com.pl/en_en/).
 - 🌱 Currently focusing on work & private embedded projects. <!-- - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/)! And I love it! 😍 -->
-- 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: [`AgainPsychoX#4444`](https://discordapp.com/users/299966992834756608) 
+- 💬 Ask me about anything on [issues page](https://github.com/AgainPsychoX/AgainPsychoX/issues) or via Discord: [`AgainPsychoX`](https://discord.com/users/299966992834756608) 
 - 📫 Feel free to hit my e-mail: [`patryk.ludwikowski.7@gmail.com`](mailto://patryk.ludwikowski.7@gmail.com)
 - 😄 Pronouns: `he/him`.  I don't care about nationality, race nor sexuality - everyone deserves respect. 🌈
 - ⚡ Fun fact: In middle school I hacked my school electronic grade book, nothing serious tho 🤐
