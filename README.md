@@ -84,13 +84,13 @@
 ### 💻 Software and tools
 
 <dl><dd><p>
-<!-- TODO: Add links? Add YT Music instead Spotify (incl. above); Update Discord to even deeper color; Add Brave; Add Proton/VPN -->
-<!-- TODO: Add ActivityWatch	<a href="#"><img alt="ActivityWatch" src=""></a> -->
+	<a href="#"><img alt="ActivityWatch" src="https://github.com/AgainPsychoX/AgainPsychoX/assets/23557839/2459ea91-edcd-4aa6-b93e-49ffb3caf4bc"></a>
 	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 	<a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-	<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white"></a>
+	<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5662f6?logo=discord&logoColor=white"></a>
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-c94438.svg?logo=gmail&logoColor=white"></a>
 	<a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-377EF0.svg?logo=googlechrome&logoColor=white"></a>
@@ -99,13 +99,16 @@
 	<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 	<a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
 	<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-	<a href="#"><img alt="uBlock Origin" src="https://img.shields.io/badge/uBlock%20Origin-810000?logo=ublockorigin&logoColor=white"></a>
+	<a href="#"><img alt="Proton VPN" src="https://img.shields.io/badge/Proton%20VPN-66DEB1?logo=protonvpn&logoColor=white"></a>
 	<a href="#"><img alt="Shotcut" src="https://img.shields.io/badge/Shotcut-115d77?logo=shotcut&logoColor=white"></a>
 	<a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ed760?logo=spotify&logoColor=white"></a>
 	<a href="#"><img alt="Steam" src="https://img.shields.io/badge/Steam-0b1d41?logo=steam&logoColor=white"></a>
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0079be?logo=trello&logoColor=white"></a>
+	<a href="#"><img alt="uBlock Origin" src="https://img.shields.io/badge/uBlock%20Origin-810000?logo=ublockorigin&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	<a href="https://www.youtube.com/@AgainPsychoX"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
+	<a href="https://music.youtube.com/playlist?list=PL3paxtWpuYCyBIl_pKXqrf1X4n9dQLMwc"><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube%20Music-FF0000?logo=youtubemusic&logoColor=white"></a>
 	<a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-03AEF4.svg?logo=windows&logoColor=white"></a>
 </p></dd></dl>
 
@@ -116,13 +119,11 @@
 	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ec.svg?logo=docker&logoColor=white"></a>
 	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-	<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
 	<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 	<a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-432e9b.svg?logo=Obsidian&logoColor=white"></a>
 	<a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-111111.svg?logo=OpenCV&logoColor=white"></a>
 	<a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
 	<a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-F74C00.svg?logo=rust&logoColor=white"></a>
-	<a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-393939.svg?logo=solidity&logoColor=white"></a>
 	<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 	<a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-000000.svg?logo=unrealengine&logoColor=white"></a>
 	<a href="#"><img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-a41e22.svg?logo=vulkan&logoColor=white"></a>
